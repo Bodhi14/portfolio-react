@@ -31,7 +31,7 @@ let resumeData = {
       specialization: "ECE",
       MonthOfPassing: "May",
       YearOfPassing: "2024",
-      information: "Some Achievements"
+      information: "Information"
     },
     {
       UniversityName: "Bharatiya Vidya Bhavan",

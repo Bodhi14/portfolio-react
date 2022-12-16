@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-react",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,5 +25,5 @@
     "not op_mini all"
   ],
   "keywords": [],
-  "description": "My portfolio ( technology used -> React )"
+  "description": ""
 }

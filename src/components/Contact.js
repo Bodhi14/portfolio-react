@@ -3,6 +3,9 @@ export default class Contact extends Component {
   render() {
     return (
       <section id="contact">
+        <div className="d-flex flex-row justify-content-center">
+          <div>Contact Me</div>
+        </div>
         <div className="row section-head">
           <div className="ten columns">
             <p className="lead">

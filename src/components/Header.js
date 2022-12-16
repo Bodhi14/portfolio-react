@@ -34,6 +34,17 @@ export default class Header extends Component {
                 </a>
               </li>
               <li>
+                <a
+                  className="smoothscroll"
+                  href="#experience"
+                  onClick={() => {
+                    window.scroll(0, 2400);
+                  }}
+                >
+                  Experience
+                </a>
+              </li>
+              <li>
                 <a className="smoothscroll" href="#contact">
                   Contact
                 </a>

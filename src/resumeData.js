@@ -39,25 +39,15 @@ let resumeData = {
       MonthOfPassing: "March",
       YearOfPassing: "2020",
       information: "Some Achievements"
-    }
-  ],
-  work: [
-    {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      information: "Some Achievements"
     },
     {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
+      UniversityName: "Bharatiya Vidya Bhavan",
+      specialization: "CBSE - X",
+      MonthOfPassing: "March",
+      YearOfPassing: "2018",
       information: "Some Achievements"
     }
   ],
-  skillsDescription: "",
   skills: [
     {
       skillname: "HTML5",
@@ -72,7 +62,7 @@ let resumeData = {
       skillvalue: 50
     }
   ],
-  portfolio: [
+  projects: [
     {
       name: "project1",
       description: "mobileapp",
